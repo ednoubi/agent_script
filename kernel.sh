@@ -9,3 +9,6 @@ lscpu
 lsblk
 uname -r
 iostat
+cat /etc/os-release
+sar -u
+nproc
