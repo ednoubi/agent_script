@@ -9,3 +9,7 @@ lscpu
 lsblk
 uname -r
 iostat
+
+free-m
+sar -u
+cat /proc/os-release
