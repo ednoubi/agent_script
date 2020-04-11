@@ -13,3 +13,6 @@ iostat
 free-m
 sar -u
 cat /proc/os-release
+cat /etc/os-release
+sar -u
+nproc
